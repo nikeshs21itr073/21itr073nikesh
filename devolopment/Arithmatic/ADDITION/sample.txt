@@ -1,4 +1,4 @@
-//demo purpose
+demo purpose
 #include<stdio.h>
 int main()
 {
